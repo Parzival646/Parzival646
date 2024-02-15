@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/656633935145316d25891cb3?variant=dark" alt="roadmap.sh"/></a>
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0b152016-f13f-42f5-9aa3-76981968edde/deploy-status)](https://app.netlify.com/sites/regal-lily-cea105/deploys)
 
 
 
