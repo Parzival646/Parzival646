@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/thayler"><img src="./devcard.png" width="356" alt="THAYLER PEREIRA DE ALMEIDA's Dev Card"/></a>
 
-
+<a href="https://app.daily.dev/thayler"><img src="https://api.daily.dev/devcards/v2/ySXb4cI5QY8YnPgnRVUNw.png?type=default&r=hkh" width="356" alt="THAYLER PEREIRA DE ALMEIDA's Dev Card"/></a>
 
