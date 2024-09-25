@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/656633935145316d25891cb3?variant=dark" alt="roadmap.sh"/></a>
+   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/656633935145316d25891cb3?variant=dark" width="356" alt="roadmap.sh"/></a>
 
    <a href="https://app.daily.dev/thayler"><img src="./devcard.png" width="356" alt="THAYLER PEREIRA DE ALMEIDA's Dev Card"/></a>
 
