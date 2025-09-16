@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parzival646)](https://github.com/anuraghazra/github-readme-stats)
 
-   <a href="https://app.daily.dev/thayler"><img src="./devcard.png" width="100%" alt="THAYLER PEREIRA DE ALMEIDA's Dev Card"/></a>
+   <a href="https://app.daily.dev/thayler"><img src="./devcard.png" width="50%" alt="THAYLER PEREIRA DE ALMEIDA's Dev Card"/></a>
 
