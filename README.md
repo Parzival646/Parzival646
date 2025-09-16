@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parzival646)](https://github.com/anuraghazra/github-readme-stats)
 
    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/656633935145316d25891cb3?variant=dark" width="356" alt="roadmap.sh"/></a>
 
